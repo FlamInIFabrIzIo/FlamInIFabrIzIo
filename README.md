@@ -58,13 +58,12 @@
 
 ---
 
-### ⚖️ Imágenes Relacionadas
+###  
 <p align="center">
-  <img src="https://www.kindpng.com/picc/m/2431538.png" width="300" alt="Imagen Jurídica" />
-  <img src="https://www.kindpng.com/picc/m/2431622.png" width="300" alt="FinTech" />
-  <img src="https://www.kindpng.com/picc/m/2429492.png" width="300" alt="Análisis de Datos" />
-  <img src="https://www.kindpng.com/picc/m/2431671.png" width="300" alt="Ingeniería de Datos" />
-  <img src="https://www.kindpng.com/picc/m/2431550.png" width="300" alt="Desarrollo Backend" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Scales_of_justice.svg" width="200" alt="Escalas de Justicia" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Fintech-logo.png" width="200" alt="FinTech" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Data_analysis_icon.png" width="200" alt="Análisis de Datos" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Data_engineer_icon.png" width="200" alt="Ingeniería de Datos" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Backend_developer_icon.png" width="200" alt="Desarrollo Backend" />
 </p>
-
 
