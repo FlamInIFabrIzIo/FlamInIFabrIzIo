@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Fabrizio</h1>
+<h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, soy Fabrizio</h1>
 <h3 align="center">
   Soy Data Analyst, en transición a Data Engineer, y también me apasiona el desarrollo backend con Java y Spring Boot como hobby. 
   Me encanta programar con un buen mate 🧉, como buen argentino 😁, ya veces con un café ☕ para recargar energías. 
@@ -51,5 +51,15 @@
   <a href="https://www.google.com/search?q=backend+development" target="_blank">
     <img src="https://img.shields.io/badge/Desarrollo%20Backend-%23F7DF1E.svg?style=for-the-badge&logo=spring&logoColor=black" alt="Desarrollo Backend" />
   </a>
+</p>
+
+---
+
+### 🚀 Proyectos Destacados:
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="300" alt="Ingeniería de Datos" />
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" alt="Análisis de Datos" />
+  <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="300" alt="Desarrollo Backend" />
 </p>
 
