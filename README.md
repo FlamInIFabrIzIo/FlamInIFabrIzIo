@@ -4,7 +4,7 @@
   Me encanta programar con un buen mate 🧉, como buen argentino 😁, ya veces con un café ☕ para recargar energías. 
   Disfruto mucho de aprender nuevas tecnologías, tanto en trabajo en equipo como de manera individual, siempre acompañado de buena música 🎶. 
   Me especializo en detectar patrones y transformar datos complejos en soluciones escalables. 
-  Estoy comprometido con la mejora continua y abierto a enfrentar nuevos desafíos que integren análisis de datos, backend e ingeniería de datos.
+  Estoy comprometido con la mejora continua y abierto a enfrentar nuevos desafíos que integren análisis de datos, backend, ingeniería de datos y el ámbito jurídico.
 </h3>
 
 ---
@@ -36,6 +36,9 @@
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Apache%20Airflow-%23017CEE.svg?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Apache Airflow" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
 </p>
 
 ---
@@ -51,15 +54,9 @@
   <a href="https://www.google.com/search?q=backend+development" target="_blank">
     <img src="https://img.shields.io/badge/Desarrollo%20Backend-%23F7DF1E.svg?style=for-the-badge&logo=spring&logoColor=black" alt="Desarrollo Backend" />
   </a>
+  <a href="https://www.google.com/search?q=legal+data+analysis" target="_blank">
+    <img src="https://img.shields.io/badge/Análisis%20Jurídico-%233366FF.svg?style=for-the-badge&logo=law&logoColor=white" alt="Análisis Jurídico" />
+  </a>
 </p>
 
----
-
-### 🚀 Proyectos Destacados:
-
-<p align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="300" alt="Ingeniería de Datos" />
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" alt="Análisis de Datos" />
-  <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="300" alt="Desarrollo Backend" />
-</p>
 
