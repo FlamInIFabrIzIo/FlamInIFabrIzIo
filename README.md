@@ -1,6 +1,8 @@
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, soy Fabrizio</h1>
 <h3 align="center">
-  Soy Data Analyst, en transición a Data Engineer, con pasión por el desarrollo backend en Java y Spring Boot. Me encanta programar con un buen mate 🧉, como buen argentino 😁, y a veces con un café ☕ para recargar energías. Disfruto mucho de aprender nuevas tecnologías, ya sea trabajando en equipo o de manera individual, acompañado de buena música 🎶. Me especializo en detectar patrones y transformar datos complejos en soluciones escalables. Siempre comprometido con la mejora continua, busco enfrentar nuevos desafíos que integren análisis de datos, backend e ingeniería de datos.
+Data Analyst en transición a Data Engineer, con interés en el desarrollo backend con Java y Spring Boot como hobby. 
+  Me especializo en detectar patrones y transformar datos complejos en soluciones escalables. 
+  Me encanta aprender nuevas tecnologías y enfrentar desafíos que integren análisis de datos, backend e ingeniería de datos.
 </h3>
 
 ---
@@ -35,30 +37,6 @@
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
-</p>
-
----
-
-### 🏆 Áreas de Especialización:
-
-<div align="center">
-  <a href="#">
-    <img src="https://cdn-icons-png.flaticon.com/512/3714/3714058.png" alt="Ingeniería de Datos" width="100px" style="margin: 20px;"/>
-  </a>
-  <a href="#">
-    <img src="https://cdn-icons-png.flaticon.com/512/2910/2910760.png" alt="Desarrollo Backend" width="100px" style="margin: 20px;"/>
-  </a>
-  <a href="#">
-    <img src="https://cdn-icons-png.flaticon.com/512/4300/4300571.png" alt="Análisis de Datos" width="100px" style="margin: 20px;"/>
-  </a>
-</div>
-
----
-
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1518684079-4c58027ad198?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt="Data Engineering" width="300px" style="margin: 20px; border-radius: 10px;" />
-  <img src="https://images.unsplash.com/photo-1559027615-55c1d4363dbe?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt="Backend Development" width="300px" style="margin: 20px; border-radius: 10px;" />
-  <img src="https://images.unsplash.com/photo-1559027615-55c1d4363dbe?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt="Data Analysis" width="300px" style="margin: 20px; border-radius: 10px;" />
 </p>
 
 ---
