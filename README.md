@@ -58,12 +58,11 @@
 
 ---
 
-###  
+###
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Scales_of_justice.svg" width="200" alt="Escalas de Justicia" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Fintech-logo.png" width="200" alt="FinTech" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Data_analysis_icon.png" width="200" alt="Análisis de Datos" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Data_engineer_icon.png" width="200" alt="Ingeniería de Datos" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Backend_developer_icon.png" width="200" alt="Desarrollo Backend" />
+  <img src="https://images.unsplash.com/photo-1512001592910-37d0a08e5063?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc5MTl8MHwxfGFsbHwxfHx8fHx8fHwxNjEzODU0NzU0&ixlib=rb-1.2.1&q=80&w=400" width="200" alt="Escalas de Justicia" />
+  <img src="https://images.unsplash.com/photo-1583976764731-2d219b0e0a8e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc5MTl8MHwxfGFsbHw0fHx8fHx8fHwxNjEzODU0Nzgz&ixlib=rb-1.2.1&q=80&w=400" width="200" alt="FinTech" />
+  <img src="https://images.unsplash.com/photo-1519389950473-47f1e83e4c8b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc5MTl8MHwxfGFsbHw3fHx8fHx8fHwxNjEzODU0ODAw&ixlib=rb-1.2.1&q=80&w=400" width="200" alt="Análisis de Datos" />
+  <img src="https://images.unsplash.com/photo-1504384308090-c894fdcc5385?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc5MTl8MHwxfGFsbHw5fHx8fHx8fHwxNjEzODU0ODU1&ixlib=rb-1.2.1&q=80&w=400" width="200" alt="Ingeniería de Datos" />
+  <img src="https://images.unsplash.com/photo-1521558683486-6e4b4b4d9b3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc5MTl8MHwxfGFsbHwxMHx8fHx8fHx8fHwxNjEzODU0OTAw&ixlib=rb-1.2.1&q=80&w=400" width="200" alt="Desarrollo Backend" />
 </p>
-
