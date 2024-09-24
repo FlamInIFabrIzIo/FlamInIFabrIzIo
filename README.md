@@ -1,14 +1,9 @@
-<h1 align="center">
-  ¡Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, soy Fabrizio!
-</h1>
-
+<h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, soy Fabrizio</h1>
 <h3 align="center">
   Soy Data Analyst, en transición a Data Engineer, con pasión por el desarrollo backend en Java y Spring Boot. Me encanta programar con un buen mate 🧉, como buen argentino 😁, y a veces con un café ☕ para recargar energías. Disfruto mucho de aprender nuevas tecnologías, ya sea trabajando en equipo o de manera individual, acompañado de buena música 🎶. Me especializo en detectar patrones y transformar datos complejos en soluciones escalables. Siempre comprometido con la mejora continua, busco enfrentar nuevos desafíos que integren análisis de datos, backend e ingeniería de datos.
 </h3>
 
 ---
-
-### 🌐 Conéctate conmigo:
 
 <p align="center">
   <a href="https://linkedin.com/in/fabrizioflamini" target="_blank">
@@ -46,26 +41,28 @@
 
 ### 🏆 Áreas de Especialización:
 
+<div align="center">
+  <a href="#">
+    <img src="https://cdn-icons-png.flaticon.com/512/3714/3714058.png" alt="Ingeniería de Datos" width="100px" style="margin: 20px;"/>
+  </a>
+  <a href="#">
+    <img src="https://cdn-icons-png.flaticon.com/512/2910/2910760.png" alt="Desarrollo Backend" width="100px" style="margin: 20px;"/>
+  </a>
+  <a href="#">
+    <img src="https://cdn-icons-png.flaticon.com/512/4300/4300571.png" alt="Análisis de Datos" width="100px" style="margin: 20px;"/>
+  </a>
+</div>
+
+---
+
 <p align="center">
-  <a href="https://www.google.com/search?q=data+analysis" target="_blank">
-    <img src="https://img.shields.io/badge/Análisis%20de%20Datos-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Análisis de Datos" />
-  </a>
-  <a href="https://www.google.com/search?q=data+engineering" target="_blank">
-    <img src="https://img.shields.io/badge/Ingeniería%20de%20Datos-%230092CC.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Ingeniería de Datos" />
-  </a>
-  <a href="https://www.google.com/search?q=backend+development" target="_blank">
-    <img src="https://img.shields.io/badge/Desarrollo%20Backend-%23F7DF1E.svg?style=for-the-badge&logo=spring&logoColor=black" alt="Desarrollo Backend" />
-  </a>
+  <img src="https://images.unsplash.com/photo-1518684079-4c58027ad198?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt="Data Engineering" width="300px" style="margin: 20px; border-radius: 10px;" />
+  <img src="https://images.unsplash.com/photo-1559027615-55c1d4363dbe?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt="Backend Development" width="300px" style="margin: 20px; border-radius: 10px;" />
+  <img src="https://images.unsplash.com/photo-1559027615-55c1d4363dbe?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt="Data Analysis" width="300px" style="margin: 20px; border-radius: 10px;" />
 </p>
 
 ---
 
-### 🎨 Imágenes Relacionadas
-
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1531497865141-4642b7d11090?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60" alt="Ingeniería de Datos" width="300" style="margin: 10px; border-radius: 10px;" />
-  <img src="https://images.unsplash.com/photo-1542744173-05336fcc7ad4?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60" alt="Desarrollo Backend" width="300" style="margin: 10px; border-radius: 10px;" />
-  <img src="https://images.unsplash.com/photo-1506377287034-1b1791c98f0f?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60" alt="Análisis de Datos" width="300" style="margin: 10px; border-radius: 10px;" />
-</p>
+<h3 align="center">¡Gracias por visitar mi perfil! 🚀</h3>
 
 
