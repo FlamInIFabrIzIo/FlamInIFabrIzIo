@@ -4,7 +4,7 @@
   Me encanta programar con un buen mate 🧉, como buen argentino 😁, ya veces con un café ☕ para recargar energías. 
   Disfruto mucho de aprender nuevas tecnologías, tanto en trabajo en equipo como de manera individual, siempre acompañado de buena música 🎶. 
   Me especializo en detectar patrones y transformar datos complejos en soluciones escalables. 
-  Estoy comprometido con la mejora continua y abierto a enfrentar nuevos desafíos que integren análisis de datos, backend, ingeniería de datos y el ámbito jurídico.
+  Estoy comprometido con la mejora continua y abierto a enfrentar nuevos desafíos que integren análisis de datos, backend e ingeniería de datos.
 </h3>
 
 ---
@@ -54,9 +54,17 @@
   <a href="https://www.google.com/search?q=backend+development" target="_blank">
     <img src="https://img.shields.io/badge/Desarrollo%20Backend-%23F7DF1E.svg?style=for-the-badge&logo=spring&logoColor=black" alt="Desarrollo Backend" />
   </a>
-  <a href="https://www.google.com/search?q=legal+data+analysis" target="_blank">
-    <img src="https://img.shields.io/badge/Análisis%20Jurídico-%233366FF.svg?style=for-the-badge&logo=law&logoColor=white" alt="Análisis Jurídico" />
-  </a>
+</p>
+
+---
+
+### ⚖️ Imágenes Relacionadas
+<p align="center">
+  <img src="https://www.kindpng.com/picc/m/2431538.png" width="300" alt="Imagen Jurídica" />
+  <img src="https://www.kindpng.com/picc/m/2431622.png" width="300" alt="FinTech" />
+  <img src="https://www.kindpng.com/picc/m/2429492.png" width="300" alt="Análisis de Datos" />
+  <img src="https://www.kindpng.com/picc/m/2431671.png" width="300" alt="Ingeniería de Datos" />
+  <img src="https://www.kindpng.com/picc/m/2431550.png" width="300" alt="Desarrollo Backend" />
 </p>
 
 
