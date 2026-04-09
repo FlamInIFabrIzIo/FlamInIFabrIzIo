@@ -1,8 +1,8 @@
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, soy Fabrizio</h1>
 <h3 align="center">
-Data Analyst en transición a Data Engineer, con interés en el desarrollo backend con Java y Spring Boot como hobby. 
-  Me especializo en detectar patrones y transformar datos complejos en soluciones escalables. 
-  Me encanta aprender nuevas tecnologías y enfrentar desafíos que integren análisis de datos, backend e ingeniería de datos.
+Data Analyst en transicion a AI Engineer.
+Construyendo sistemas con datos, automatización e IA.
+Enfocado en soluciones escalables, eficientes y orientadas a resultados.
 </h3>
 
 ---
