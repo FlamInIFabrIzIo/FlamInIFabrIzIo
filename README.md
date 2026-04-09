@@ -1,7 +1,7 @@
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, soy Fabrizio</h1>
 <h3 align="center">
-Data Analyst en transicion a AI Engineer.  
-Construyendo sistemas con datos, automatización e IA.  
+Data Analyst en transicion a AI Engineer.<br>
+Construyendo sistemas con datos, automatización e IA.<br>  
 Enfocado en soluciones escalables, eficientes y orientadas a resultados.
 </h3>
 
